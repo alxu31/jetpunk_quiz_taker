@@ -1,9 +1,9 @@
 ### JetPunk Quiz Taker
 Requires pyautogui and selenium<br>
 To install:<br>
-'''
+```
 pip install pyautogui selenium
-'''
+```
 Requires webdriver (I used chromedriver)<br>
 => Manually insert your own driver pathway<br>
 <br>
